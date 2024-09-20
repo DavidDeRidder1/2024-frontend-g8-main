@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "ID": 1,
+      "AANGEVRAAGDOP": "2024-04-21T00:00:00.000Z",
+      "ACCOUNTSINDS": "2023-10-31T00:00:00.000Z",
+      "ADRES": "Another Mock Address",
+      "BETALINGSINFO": ["FACTUUR"],
+      "CONTACTGEGEVENS": {
+        "email": "ht5ut3sy@temporary-mail.net",
+        "telefoon": "+3212345678901",
+        "contactpersoon": "Bedrijf1 Contactpersoon"
+      },
+      "ISACTIEFKLANT": false,
+      "ISACTIEFLEVERANCIER": true,
+      "ISAFGEKEURD": false,
+      "ISGOEDGEKEURD": false,
+      "LOGOIMAGE": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png",
+      "SECTOR": "Another mock sector",
+      "AANGEVRAAGDDOOR_ID": 1,
+      "BEDRIJF_ID": 1
+    },
+    {
+      "ID": 80,
+      "AANGEVRAAGDOP": "2024-05-05T13:42:03.160Z",
+      "ACCOUNTSINDS": "2024-04-24T00:00:00.000Z",
+      "ADRES": "Mockdreef 12, 9031 Drongen België",
+      "BETALINGSINFO": ["Overschrijving"],
+      "CONTACTGEGEVENS": {
+        "email": "bedrijf1@info.com",
+        "telefoon": "+3212345678901",
+        "contactpersoon": "Bedrijf1 Contactpersoon"
+      },
+      "ISACTIEFKLANT": true,
+      "ISACTIEFLEVERANCIER": true,
+      "ISAFGEKEURD": false,
+      "ISGOEDGEKEURD": false,
+      "LOGOIMAGE": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png",
+      "SECTOR": "Another mock sector",
+      "AANGEVRAAGDDOOR_ID": 1,
+      "BEDRIJF_ID": 1
+    },
+    {
+      "ID": 81,
+      "AANGEVRAAGDOP": "2024-05-07T19:15:37.514Z",
+      "ACCOUNTSINDS": "2023-10-31T00:00:00.000Z",
+      "ADRES": "Straat 1, 1000 Brussel br, België",
+      "BETALINGSINFO": ["PAYPAL", "FACTUUR"],
+      "CONTACTGEGEVENS": {
+        "email": "ht5ut3sy@temporary-mail.net",
+        "telefoon": "+320487484486",
+        "contactpersoon": "Bedrijf1 Contactpersoon"
+      },
+      "ISACTIEFKLANT": true,
+      "ISACTIEFLEVERANCIER": false,
+      "ISAFGEKEURD": false,
+      "ISGOEDGEKEURD": false,
+      "LOGOIMAGE": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png",
+      "SECTOR": "Sector1",
+      "AANGEVRAAGDDOOR_ID": 1,
+      "BEDRIJF_ID": 1
+    },
+    {
+      "ID": 82,
+      "AANGEVRAAGDOP": "2024-05-07T19:16:05.620Z",
+      "ACCOUNTSINDS": "2023-10-31T00:00:00.000Z",
+      "ADRES": "Straat 1, 1000 Brussel br, België",
+      "BETALINGSINFO": ["PAYPAL", "FACTUUR"],
+      "CONTACTGEGEVENS": {
+        "email": "ht5ut3sy@temporary-mail.net",
+        "telefoon": "+320487484486",
+        "contactpersoon": "Bedrijf1 Contactpersoon"
+      },
+      "ISACTIEFKLANT": true,
+      "ISACTIEFLEVERANCIER": false,
+      "ISAFGEKEURD": false,
+      "ISGOEDGEKEURD": false,
+      "LOGOIMAGE": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png",
+      "SECTOR": "Sector1",
+      "AANGEVRAAGDDOOR_ID": 1,
+      "BEDRIJF_ID": 1
+    }
+  ]
+}

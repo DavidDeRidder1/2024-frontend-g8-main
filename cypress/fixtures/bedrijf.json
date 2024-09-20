@@ -1,0 +1,18 @@
+{
+  "ID": 1,
+  "ACCOUNTSINDS": "2023-10-31T00:00:00.000Z",
+  "ADRES": "Straat 1, 1000 Brussel br, België",
+  "BETALINGSINFO": ["FACTUUR", "PAYPAL"],
+  "BTWNUMMER": "BE0123456789",
+  "CONTACTGEGEVENS": {
+    "email": "ht5ut3sy@temporary-mail.net",
+    "telefoon": "+320487484486",
+    "contactpersoon": "Bedrijf1 Contactpersoon"
+  },
+  "ISACTIEFKLANT": true,
+  "ISACTIEFLEVERANCIER": false,
+  "LOGOIMAGE": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png",
+  "NAAM": "Bedrijf1",
+  "SECTOR": "Sector1",
+  "ADMIN_ID": null
+}

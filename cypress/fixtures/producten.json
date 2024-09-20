@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "naam": "Laptop",
+      "eenheidsprijs": 1200.0,
+      "instock": 50,
+      "leverancier_ID": 1,
+      "fotoURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PDP-Highlight-Consumer-Laptop-Go-3-Platinum-001:VP1-539x440"
+    },
+    {
+      "naam": "Smartphone",
+      "eenheidsprijs": 800.0,
+      "instock": 100,
+      "leverancier_ID": 2,
+      "fotoURL": "https://images.samsung.com/is/image/samsung/p6pim/be/2401/gallery/be-galaxy-s24-490925-sm-s921blbgeub-thumb-539433527"
+    },
+    {
+      "naam": "Headphones",
+      "eenheidsprijs": 100.0,
+      "instock": 200,
+      "leverancier_ID": 3,
+      "fotoURL": "https://sony.scene7.com/is/image/sonyglobalsolutions/wh-ch720_Primary_image?$categorypdpnav$&fmt=png-alpha"
+    }
+  ]
+}

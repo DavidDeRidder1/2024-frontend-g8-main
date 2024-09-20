@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "ID": 2,
+      "ORDER_ID": 1,
+      "USER_ID": 1,
+      "TEXT": "Updated notification",
+      "TYPE": "BETALINGONTVANGEN",
+      "STATUS": "GELEZEN",
+      "DATUM": "2024-05-01T00:00:00.000Z",
+      "bestelling": {
+        "ORDERID": "ORD123"
+      }
+    },
+    {
+      "ID": 3,
+      "ORDER_ID": 3,
+      "USER_ID": 1,
+      "TEXT": "Alle producten voor bestelling zijn in voorraad en kunnen worden verzonden.",
+      "TYPE": "ORDERVERZENDBAAR",
+      "STATUS": "GELEZEN",
+      "DATUM": "2024-05-01T00:00:00.000Z",
+      "bestelling": {
+        "ORDERID": "ORD124"
+      }
+    },
+    {
+      "ID": 9,
+      "ORDER_ID": 1,
+      "USER_ID": 1,
+      "TEXT": "Test notification",
+      "TYPE": "BETALINGSVERZOEK",
+      "STATUS": "NIEUW",
+      "DATUM": "2024-05-01T00:00:00.000Z",
+      "bestelling": {
+        "ORDERID": "ORD123"
+      }
+    }
+  ]
+}
